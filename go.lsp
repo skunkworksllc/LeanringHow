@@ -1,3 +1,3 @@
 (defun lathe_find_surface_speed ( / )
-	(setq return 300)
+	(setq return 600)
 )
